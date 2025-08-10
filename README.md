@@ -16,10 +16,7 @@ All nodes follow ComfyUI's standard node architecture and are designed to work i
 | `hue_saturation_lightness77.py` | 🎨 HSL 77 | Hue, saturation, and lightness adjustments similar to Photoshop. |
 | `mergeimages77.py` | 🖼️ Merge Images 77 | Merge multiple images with adjustable blend modes and opacity. |
 | `outline77.py` | ✏️ Outline 77 | Generate outlines from an image with color and thickness control. |
-| `processing.py` | ⚙️ Processing Helpers | Internal utilities for image conversion, blending, and tensor handling. |
-| `worker.py` | 🖥️ Worker | Optional async tasks for heavy processing jobs. |
 | `combined_node.py` | 🧩 Combined Node | Merges multiple adjustments into a single node for faster workflows. |
-| `main.py` | 🔧 Loader | Registers all nodes and their display names with ComfyUI. |
 | `requirements.txt` | 📄 Requirements | Python dependencies for these nodes. |
 
 ---
