@@ -26,9 +26,7 @@ All nodes follow ComfyUI's standard node architecture and are designed to work i
 1. Place the folder **`Comfyui_77`** into:
 ComfyUI/custom_nodes/
 
-go
-Copy
-Edit
+
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -61,11 +59,8 @@ Feel free to modify and integrate into your own workflows.
 📩 Contact
 # Comfyui_77 – Custom Node Collection
 
-This folder can contain **77-series** ComfyUI custom nodes, built for extended imag
+This folder can contain **77-series** ComfyUI custom nodes, built for extended image
 
-yaml
-Copy
-Edit
 
 ---
 
